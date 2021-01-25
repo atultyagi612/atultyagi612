@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [tultyagi612.github.io](tultyagi612.github.io)
+- 👨‍💻 All of my projects are available at [atultyagi612.github.io](atultyagi612.github.io)
 
 - 💬 Ask me about **anything 😎, I am happy to help if i can .**
 
