@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/atultyagi2000" target="blank"><img align="center" style="filter: invert(1); src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="atultyagi2000" height="30" width="40" /></a>
+<a href="https://kaggle.com/atultyagi2000" target="blank"><img align="center" style="filter: invert(1)" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="atultyagi2000" height="30" width="40" /></a>
 <a href="https://fb.com/atul tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="atul tyagi" height="30" width="40" /></a>
 <a href="https://instagram.com/atultyagi___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="atultyagi___" height="30" width="40" /></a>
 </p>
