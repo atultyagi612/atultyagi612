@@ -13,11 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/atultyagi612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="atultyagi612" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atul-tyagi-b8a370158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="atul-tyagi-b8a370158" height="30" width="40" /></a>
+<a href="https://dev.to/atultyagi612" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="atultyagi612" height="59" width="78" /></a>
+<a href="https://linkedin.com/in/atul-tyagi-b8a370158" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="atul-tyagi-b8a370158" height="30" width="40" /></a>
 <a href="https://kaggle.com/atultyagi2000" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="atultyagi2000" height="30" width="40" /></a>
-<a href="https://instagram.com/atultyagi___" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="atultyagi___" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/atultyagi_at_612" target="blank"><img align="center" src="https://github.com/DiemenDesign/LibreICONS/blob/master/svg/libre-brand-hackerrank.svg" alt="atultyagi_at_612" height="30" width="40" /></a>
+<a href="https://instagram.com/atultyagi___" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="atultyagi___" height="30" width="33" /></a>
+<a href="https://www.hackerrank.com/atultyagi_at_612" target="blank"><img align="center" src="https://github.com/DiemenDesign/LibreICONS/blob/master/svg/libre-brand-hackerrank.svg" alt="atultyagi_at_612" height="40" width="43" style="background-color: white;
+    border-radius: 12px;" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
