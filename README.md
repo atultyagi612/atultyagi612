@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **something cool 😉😁**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [atultyagi612.github.io](atultyagi612.github.io)
 
